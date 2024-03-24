@@ -1,0 +1,12 @@
+.triangle {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 34.64px solid blue; /* Altura do triângulo é 34.64% da base */
+    display: inline-block;
+}
+
+.row {
+    white-space: nowrap;
+}
